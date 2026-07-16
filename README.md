@@ -26,5 +26,5 @@ The local volatility model addresses this limitation by introducing a volatility
 
 ```text
 sigma_local = sigma_local(t, S_t)
-
+```
 This project is designed as a practical introduction to volatility surface calibration and equity derivatives pricing.
